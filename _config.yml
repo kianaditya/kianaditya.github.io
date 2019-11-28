@@ -17,8 +17,8 @@ title: ADITYA NAIK
 #email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Full Stack Developer - React and Ruby on Rails
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "kianaditya.github.io" # the subpath of your site, e.g. /blog
+url: "https://https://github.com/kianaditya" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: full_stack_adi
 github_username:  kianaditya
 
